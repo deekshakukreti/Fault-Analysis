@@ -1,4 +1,4 @@
-# Fault-Analysis
+# Fault-Prediction
 
 
 # Business Scenario
@@ -62,3 +62,6 @@ Day Num Cal Month: Numeric value of day within the month
 Day Num Cal Year: Numeric value of day within the year
 
 Bank holiday: Flags the bank holiday (Y: bank holiday)
+
+
+Please don't forget to leave a star :star: in the end.
